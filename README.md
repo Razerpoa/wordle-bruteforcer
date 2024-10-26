@@ -1,6 +1,6 @@
-# Wordle Helper
+# Wordle Helper/Bruteforcer
 
-Wordle Helper is a Python application designed to assist players in solving Wordle puzzles. It provides suggestions for possible words based on the feedback from previous guesses.
+Wordle Helper/Bruteforcer is a Python application designed to assist players in solving Wordle puzzles. It provides suggestions for possible words based on the feedback from previous guesses.
 
 ## Features
 
